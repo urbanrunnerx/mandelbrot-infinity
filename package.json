@@ -1,0 +1,12 @@
+{
+  "name": "mandelbrot-infinity",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Offline Mandelbrot explorer with adaptive precision and an Android app",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "test": "node --test web/tests/*.test.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

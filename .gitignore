@@ -1,0 +1,16 @@
+node_modules/
+.DS_Store
+Thumbs.db
+android/.gradle/
+android/**/build/
+android/local.properties
+**/*.apk
+**/*.aab
+**/*.idsig
+**/*.jks
+**/*.keystore
+**/*.p12
+**/*password*.txt
+.env
+.env.*
+work/
